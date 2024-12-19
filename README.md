@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shaanshaban400@gmail.com**
 
-- 📄 Resume : [https://drive.google.com/file/d/1wnkiEAOM0eKoypiqk27K3mbwJM3-KJpj/view?usp=sharing](https://drive.google.com/file/d/1wnkiEAOM0eKoypiqk27K3mbwJM3-KJpj/view?usp=sharing)
+- 📄 Resume : https://drive.google.com/file/d/1-qTeA93I5QdwMFRdQj22GkyUNhj7ux7t/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
