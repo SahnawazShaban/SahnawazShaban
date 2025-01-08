@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **shaanshaban400@gmail.com**
 
-- 📄 Resume : https://drive.google.com/file/d/1-qTeA93I5QdwMFRdQj22GkyUNhj7ux7t/view?usp=sharing
-
+- 📄 Resume : https://drive.google.com/file/d/1BeZjrVreNFsSnZ_DmwSv76xrZfXykF7K/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahnawaz-shaban-1661ba182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahnawaz-shaban-1661ba182" height="30" width="40" /></a>
