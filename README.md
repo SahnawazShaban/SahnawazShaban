@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahnawaz Shaban</h1>
-<h3 align="center">A Passionate Software Developer From India</h3>
+<h3 align="center">A Passionate Data Analytics From India</h3>
 
 - 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/SahnawazShaban/](https://www.linkedin.com/in/SahnawazShaban/)
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, OS, CN, DBMS, Spring Boot, SQL, Python**
+- 💬 Ask me about **SQL, DBMS, PowerBI, Excel, Python**
 
 - 📫 How to reach me **shaanshaban400@gmail.com**
 
