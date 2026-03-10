@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahnawaz Shaban</h1>
-<h3 align="center">A Passionate Data Analytics From India</h3>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
 - 📄 Know about my experiences on LinkedIn [https://www.linkedin.com/in/SahnawazShaban/](https://www.linkedin.com/in/SahnawazShaban/)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Advanced Data Analytics, Statistics, and Machine Learning**
 
-- 💬 Ask me about **SQL, DBMS, PowerBI, Excel, Python**
+- 💬 Ask me about **SQL, Python, Data Analysis, Power BI, Excel, and DBMS**
 
 - 📫 How to reach me **shaanshaban400@gmail.com**
 
