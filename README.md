@@ -28,6 +28,12 @@ Passionate about analyzing data, finding patterns, and transforming raw data int
 <a href="https://instagram.com/shabanshaan" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
+<a href="https://www.leetcode.com/shaanshaban400" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shaanshaban400" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
 </p>
 
 📧 **Email:** shaanshaban400@gmail.com  
