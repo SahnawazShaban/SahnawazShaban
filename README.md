@@ -37,7 +37,7 @@ Passionate about analyzing data, finding patterns, and transforming raw data int
 </p>
 
 📧 **Email:** shaanshaban400@gmail.com  
-📄 [Resume](https://drive.google.com/file/d/1BeZjrVreNFsSnZ_DmwSv76xrZfXykF7K/view?usp=sharing)
+📄 [Resume](https://drive.google.com/file/d/1b7UYYOWtXB9B9uPqvqEQwWL0_D6oEuWa/view?usp=sharing)
 
 ---
 
